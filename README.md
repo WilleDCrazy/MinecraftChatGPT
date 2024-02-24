@@ -1,2 +1,2 @@
 # MinecraftChatGPT
-GPT-4 In a Private Minecraft Server
+Letting GPT-4 (ChatGPT) control a minecraft server with its inbuilt command system
