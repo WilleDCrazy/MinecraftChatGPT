@@ -56,6 +56,8 @@ We welcome contributions and suggestions! Feel free to fork the repository, make
 
 MIT License
 
+Credit me if you decide to use my code for content creation, please.
+
 ## Acknowledgments
 
 - OpenAI for the GPT-4 API.
